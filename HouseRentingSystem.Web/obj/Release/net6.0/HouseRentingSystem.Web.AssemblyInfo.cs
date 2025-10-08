@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-HouseRentingSystem-B6C45F3D-B6A3-4320-A6C0-78E60A403630")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("HouseRentingSystem.Web")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0dec93648216276eb1fd8d280f0eeb9b2b277f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("HouseRentingSystem.Web")]
