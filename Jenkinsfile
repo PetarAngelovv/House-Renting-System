@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Restore project dependencies') {
             steps {
-                ba 'dotnet restore' 
+                bat 'dotnet restore' 
             }
         }
         stage('Build the project') { 
